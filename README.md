@@ -58,5 +58,5 @@ With extensive experience in developing full-stack web applications and building
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rishika09090&theme=react&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="500"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishika09090&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="GitHub Top Languages" width="500"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishika09090&theme=react&hide_border=false" alt="GitHub Streak" width="500"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rishika09090&theme=blue-green" alt="GitHub Streak" /></a>
 </p>
